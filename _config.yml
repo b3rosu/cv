@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Bernabe
+name: Bernabe V.
 title: Attempt of sysadmin
 email: el@beroth.moe
 website: https://b3rosu.github.io/cv.gitub.io/
@@ -72,7 +72,7 @@ content:
           This is why I started to really be into linux, before this I was using ubuntu 💀
         description: | # this will include new lines to allow paragraphs
           I started to rent my first droplet about a year ago for a <mark>Server administration class</mark> and after that I know that I like servers. 
-          The things I got are:
+          The things I run are:
             - Email whit exim & dovecot
             - Web page with nginx (before was apache)
             - A PBX with asterisk, I have to say that it's not very useful
