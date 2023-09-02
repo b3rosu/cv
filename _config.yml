@@ -71,19 +71,26 @@ content:
         quote: >
           This is why I started to really be into linux, before this I was using ubuntu 💀
         description: | # this will include new lines to allow paragraphs
-          I started to rent my first droplet about a year ago for a <mark>Server administration class</mark> and after that I know that I like servers. The things I got are:: Email (exim & dovecot), HTTPs (apache & ngix), PBX (asterisk), Minecraft bedrock, FTP and Matrix.
+          I started to rent my first droplet about a year ago for a <mark>Server administration class</mark> and after that I know that I like servers. 
+        The things I got are: 
+          - Email whit exim & dovecot
+          - Web page with nginx (before was apache)
+          - A PBX with asterisk, I have to say that it's not very useful
+          - Minecraft bedrock server
+          - Matrix, like a self hosted discord (is down rn)
+          - FTP
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company (I won't post online where do I job xd)
+        title: I won't post online where do I job
         link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Help desk and sysadmin (Jr ofc)
+        sub_title: Jr. Help desk and sysadmin
         caption: January 2023 - Present
         quote: >
-          Solving 21st century problems by restarting the *server*
+          Solving 21st century problems by restarting the server
         description: | # this will include new lines to allow paragraphs
           I help people with IT/love related problems, also I manage the servers which is the funiest part.
 
@@ -107,7 +114,6 @@ content:
       Some of my interests are:
       - Anime
       - Gaming
-      - My cat
       - Sleep
 
 
