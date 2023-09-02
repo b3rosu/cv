@@ -85,7 +85,7 @@ content:
     content:
       - layout: left
         title: I won't post online where do I job
-        link: boringcompany.com
+          #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Jr. Help desk and sysadmin
         caption: January 2023 - Present
