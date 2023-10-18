@@ -110,8 +110,9 @@ content:
           I spent a lot of my free time in the library doing HW but not this one, this one is made at home.
   - title: badges
     layout: top-middle
-    content:
-    ![Docker essentials](/images/docker/images/docker-essentials-badge.png)
+    content: |
+      
+      ![Docker essentials](/images/docker/images/docker-essentials-badge.png "Docker essentials course badge")
     
 
   - title: A Little More About Me
