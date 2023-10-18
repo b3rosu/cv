@@ -109,7 +109,7 @@ content:
 
           I spent a lot of my free time in the library doing HW but not this one, this one is made at home.
   - title: badges
-    layout: top-middle
+    layout: text
     content: |
       
       ![DockerEssentials](/images/docker-essentials-badge.png "Docker essentials course badge")
