@@ -112,7 +112,7 @@ content:
     layout: top-middle
     content: |
       
-      ![Docker essentials](/images/docker/images/docker-essentials-badge.png "Docker essentials course badge")
+      ![DockerEssentials](/images/docker-essentials-badge.png "Docker essentials course badge")
     
 
   - title: A Little More About Me
