@@ -54,8 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Linux</mark> and <mark>playing videogames</mark>
 
 content:
-  - badges:
-  - Images: images/docker-essentials-badge.png
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -110,6 +108,9 @@ content:
           While I study I'm in CUCEI and then I leave, It's fun most of the time.
 
           I spent a lot of my free time in the library doing HW but not this one, this one is made at home.
+  - title: badges
+    ![Docker essentials](/images/docker/images/docker-essentials-badge.png)
+    
 
   - title: A Little More About Me
     layout: text
