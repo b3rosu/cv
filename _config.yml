@@ -49,9 +49,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi I'm Bernabe and I work as a Jr. help desk / sysadmin. I have experience working with Linux and Windows server but what I like the most is Linux.
-
-  Also know a little of code, mainly in Python and C/C++
+  Hi I'm Bernabe I'm open to work, I have experience working with Linux and Windows server but what I like the most is Linux.
+  I also like networks python and cibersecurity.
 
   I am most skilled in: <mark>Linux</mark> and <mark>networking</mark>
 
@@ -103,28 +102,27 @@ content:
     content:
       - layout: left
         title: CUCEI
-        caption: 2021 - idk
+        caption: 2021 - ???
         sub_title: BSc software engineering
-        quote: >
-          CUCEI is falling down, seriusly.
+        #quote: >
+          #the quote that will come to my mind.
         description: | # this will include new lines to allow paragraphs
-          While I study I'm in CUCEI and then I leave, It's fun most of the time.
+          I really like my career, and like to study in the library but only the thing that interest me.
 
-          I spent a lot of my free time in the library doing HW but not this one, this one is made at home.
   - title: Badges & Courses
     layout: top-middle
     content: |
       
       ![DockerEssentials](/images/docker-essentials-badge.png "Docker essentials course badge")
-      ![IntroductiontoCybersecurity](/images/cybersecurity.png "Cisco introduction to cybersecurity badge")
+      ![Cybersecurity](/images/cybersecurity.png "Cisco introduction to cybersecurity badge")
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some of my interests are:
-      - Anime
       - Gaming
-      - Sleep
+      - Tiling window managers xd
+      - Manga & anime
 
 
 # Footer
