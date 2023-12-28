@@ -9,7 +9,7 @@ version: 2
 name: Bernabe Vega
 title: Attempt of sysadmin
 email: bernabe@beroth.moe
-website: https:beroth.moe
+website: https://beroth.moe
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -73,29 +73,30 @@ content:
         quote: >
           This is why I started to really be into linux, before this I was using ubuntu 💀
         description: | # this will include new lines to allow paragraphs
-          I started to rent my first droplet about a year ago for a <mark>Server administration class</mark> and after that I know that I like servers. 
+          I started to rent my first droplet over a year ago for a <mark>Server administration class</mark> and after that I learned that I like servers. 
           The things I run are:
             - Email whit exim & dovecot
-            - Web page with nginx (before was apache)
+            - Web page with nginx (and apache2 for certbot)
             - OpenVPN & Wireguard VPN
             - A PBX with asterisk, I have to say that it's not very useful
             - Minecraft bedrock server
             - Matrix, like a self hosted discord (is down rn)
-            - FTP.
+            - FTP with proftpd.
+            - PiHole + Unbound
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: I won't post online where do I job
+          title: Centro empresarial de Jalisco S.P.
           #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Jr. Help desk and sysadmin
+        sub_title: Intern in the area of systems
         caption: January 2023 - Present
         quote: >
           Solving 21st century problems by restarting the server
         description: | # this will include new lines to allow paragraphs
-          I help people with IT/love related problems, also I manage the servers which is the funiest part.
+          I help people with IT related problems, also I manage the servers which is the funiest part.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
