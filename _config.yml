@@ -6,13 +6,13 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Bernabe V.
+name: Bernabe Vega
 title: Attempt of sysadmin
-email: el@beroth.moe
-website: https://b3rosu.github.io/cv.gitub.io/
+email: bernabe@beroth.moe
+website: https:beroth.moe
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: don't
@@ -32,9 +32,9 @@ minecraft_server: beroth.moe
 
 # Additional icon links
 additional_links:
-- title: dev.beroth.moe
-  icon: fas fa-globe
-  url: https://dev.beroth.moe
+  #- title: dev.beroth.moe
+  #icon: fas fa-globe
+  #url: https://dev.beroth.moe
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,9 +49,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Sup I'm Bernabe and I work as a Jr. help desk / sysadmin. I have experience working with Linux and Windows server but what I like the most is Linux.
+  Hi I'm Bernabe and I work as a Jr. help desk / sysadmin. I have experience working with Linux and Windows server but what I like the most is Linux.
 
-  I am most skilled in: <mark>Linux</mark> and <mark>playing videogames</mark>
+  Also know a little of code, mainly in Python and C/C++
+
+  I am most skilled in: <mark>Linux</mark> and <mark>networking</mark>
 
 content:
   - title: Projects # Title for the section
@@ -109,11 +111,11 @@ content:
 
           I spent a lot of my free time in the library doing HW but not this one, this one is made at home.
   - title: Badges & Courses
-    layout: text
+    layout: top-middle
     content: |
       
       ![DockerEssentials](/images/docker-essentials-badge.png "Docker essentials course badge")
-      ![Introduction to Cybersecurity](/images/cybersecuryty.png "Cisco introduction to cybersecurity badge")
+      ![Introduction to Cybersecurity](/images/cybersecurity.png "Cisco introduction to cybersecurity badge")
 
   - title: A Little More About Me
     layout: text
