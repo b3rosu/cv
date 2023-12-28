@@ -87,7 +87,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-          title: Centro empresarial de Jalisco S.P.
+        title: Centro empresarial de Jalisco S.P.
           #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Intern in the area of systems
