@@ -110,7 +110,7 @@ content:
           I really like my career, and like to study in the library but only the thing that interest me.
 
   - title: Badges & Courses
-    layout: top-middle
+    layout: middle
     content: |
       
       ![DockerEssentials](/images/docker-essentials-badge.png "Docker essentials course badge")
